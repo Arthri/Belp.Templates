@@ -1,7 +1,7 @@
 # Belp.Templates
-[![Project License](https://img.shields.io/badge/license-MIT-green?style=flat-square "License")](https://github.com/Arthri/Belp/blob/02b63f4be263d747f3078a0568bf235bf021d0cd/LICENSE) [![Latest NuGet Release](https://img.shields.io/nuget/v/Belp.Templates?style=flat-square "Latest NuGet Release")](https://www.nuget.org/packages/Belp.Templates/latest)
+[![Latest NuGet Release](https://img.shields.io/nuget/v/Belp.Templates?style=flat-square "Latest NuGet Release")](https://www.nuget.org/packages/Belp.Templates/latest)
 
-Provides templates for MSBuild projects and other files.
+Templates for MSBuild projects and other files.
 
 ## Available Item Templates
 
@@ -36,7 +36,7 @@ None
 1. Run `dotnet new install Belp.Templates`.
 
 ### Install using .NET CLI(GitHub)
-1. Download the `.nupkg` from [GitHub Releases](https://github.com/Arthri/Belp/releases/latest).
+1. Download the `.nupkg` from [GitHub Releases](https://github.com/Arthri/Belp.Templates/releases/latest).
 1. Open a terminal.
 1. Locate and navigate to the package.
 1. Run `dotnet new install Belp.Templates.VERSION.nupkg`.
@@ -59,6 +59,3 @@ None
 1. Click on "Create a new project".
 1. Find the desired project template.
 1. Fill out the requested fields.
-
-## License
-This work is licensed under [MIT](https://github.com/Arthri/Belp/blob/02b63f4be263d747f3078a0568bf235bf021d0cd/LICENSE).
